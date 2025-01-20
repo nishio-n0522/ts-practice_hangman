@@ -12,7 +12,12 @@
   "description": "",
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",
+    "@types/figlet": "^1.7.0",
     "@types/node": "^22.10.7",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.6.0"
   }
 }
